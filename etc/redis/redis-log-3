@@ -1,0 +1,182 @@
+8193:C 10 Oct 16:17:50.428 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+8193:C 10 Oct 16:17:50.428 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=8193, just started
+8193:C 10 Oct 16:17:50.428 # Configuration loaded
+8194:M 10 Oct 16:17:50.429 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.11 (54b17f98/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 16381
+ |    `-._   `._    /     _.-'    |     PID: 8194
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+8194:M 10 Oct 16:17:50.455 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+8194:M 10 Oct 16:17:50.455 # Server initialized
+8194:M 10 Oct 16:17:50.455 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+8194:M 10 Oct 16:17:50.455 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+8194:M 10 Oct 16:17:50.455 * Ready to accept connections
+14721:C 12 Oct 10:18:55.106 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14721:C 12 Oct 10:18:55.106 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=14721, just started
+14721:C 12 Oct 10:18:55.106 # Configuration loaded
+14722:M 12 Oct 10:18:55.110 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+14722:M 12 Oct 10:18:55.110 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+15102:C 12 Oct 10:28:39.171 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+15102:C 12 Oct 10:28:39.171 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=15102, just started
+15102:C 12 Oct 10:28:39.171 # Configuration loaded
+15103:M 12 Oct 10:28:39.172 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+15103:M 12 Oct 10:28:39.173 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+17652:C 13 Oct 14:15:09.591 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+17652:C 13 Oct 14:15:09.591 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=17652, just started
+17652:C 13 Oct 14:15:09.591 # Configuration loaded
+17653:M 13 Oct 14:15:09.597 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+17653:M 13 Oct 14:15:09.597 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+17850:C 13 Oct 14:15:39.953 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+17850:C 13 Oct 14:15:39.953 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=17850, just started
+17850:C 13 Oct 14:15:39.953 # Configuration loaded
+17851:M 13 Oct 14:15:39.956 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+17851:M 13 Oct 14:15:39.956 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+21055:C 14 Oct 00:33:40.442 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+21055:C 14 Oct 00:33:40.442 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=21055, just started
+21055:C 14 Oct 00:33:40.442 # Configuration loaded
+21056:M 14 Oct 00:33:40.444 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+21056:M 14 Oct 00:33:40.444 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+21281:C 14 Oct 00:41:48.064 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+21281:C 14 Oct 00:41:48.064 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=21281, just started
+21281:C 14 Oct 00:41:48.064 # Configuration loaded
+21282:M 14 Oct 00:41:48.065 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+21282:M 14 Oct 00:41:48.065 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+21620:C 14 Oct 00:43:04.954 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+21620:C 14 Oct 00:43:04.954 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=21620, just started
+21620:C 14 Oct 00:43:04.954 # Configuration loaded
+21621:M 14 Oct 00:43:04.956 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+21621:M 14 Oct 00:43:04.956 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+23175:C 14 Oct 20:19:35.545 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+23175:C 14 Oct 20:19:35.545 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=23175, just started
+23175:C 14 Oct 20:19:35.545 # Configuration loaded
+23176:M 14 Oct 20:19:35.547 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+23344:C 14 Oct 20:20:39.514 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+23344:C 14 Oct 20:20:39.514 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=23344, just started
+23344:C 14 Oct 20:20:39.514 # Configuration loaded
+23345:M 14 Oct 20:20:39.516 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+24714:C 14 Oct 20:22:14.226 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+24714:C 14 Oct 20:22:14.227 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=24714, just started
+24714:C 14 Oct 20:22:14.227 # Configuration loaded
+24715:M 14 Oct 20:22:14.228 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+24864:C 14 Oct 20:23:20.168 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+24864:C 14 Oct 20:23:20.168 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=24864, just started
+24864:C 14 Oct 20:23:20.168 # Configuration loaded
+24865:M 14 Oct 20:23:20.169 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+25007:C 14 Oct 20:25:35.117 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25007:C 14 Oct 20:25:35.117 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=25007, just started
+25007:C 14 Oct 20:25:35.117 # Configuration loaded
+25008:M 14 Oct 20:25:35.118 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+25147:C 14 Oct 20:25:45.434 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25147:C 14 Oct 20:25:45.434 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=25147, just started
+25147:C 14 Oct 20:25:45.434 # Configuration loaded
+25148:M 14 Oct 20:25:45.435 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+25288:C 14 Oct 20:26:05.856 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25288:C 14 Oct 20:26:05.856 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=25288, just started
+25288:C 14 Oct 20:26:05.856 # Configuration loaded
+25289:M 14 Oct 20:26:05.858 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+25429:C 14 Oct 20:26:22.439 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25429:C 14 Oct 20:26:22.439 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=25429, just started
+25429:C 14 Oct 20:26:22.439 # Configuration loaded
+25430:M 14 Oct 20:26:22.440 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+25639:C 14 Oct 20:31:25.266 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25639:C 14 Oct 20:31:25.266 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=25639, just started
+25639:C 14 Oct 20:31:25.266 # Configuration loaded
+25640:M 14 Oct 20:31:25.268 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+25811:C 14 Oct 20:34:24.481 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25811:C 14 Oct 20:34:24.481 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=25811, just started
+25811:C 14 Oct 20:34:24.481 # Configuration loaded
+25812:M 14 Oct 20:34:24.483 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+25977:C 14 Oct 20:34:45.359 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25977:C 14 Oct 20:34:45.359 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=25977, just started
+25977:C 14 Oct 20:34:45.359 # Configuration loaded
+25978:M 14 Oct 20:34:45.361 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+28056:C 14 Oct 22:55:33.554 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+28056:C 14 Oct 22:55:33.554 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=28056, just started
+28056:C 14 Oct 22:55:33.554 # Configuration loaded
+28057:M 14 Oct 22:55:33.555 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+28057:M 14 Oct 22:55:33.555 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+29518:C 14 Oct 23:01:16.644 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+29518:C 14 Oct 23:01:16.644 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=29518, just started
+29518:C 14 Oct 23:01:16.644 # Configuration loaded
+29519:M 14 Oct 23:01:16.648 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+29519:M 14 Oct 23:01:16.648 # Creating Server TCP listening socket 0.0.0.0:16381: bind: Address already in use
+468:C 25 Mar 00:00:28.706 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+468:C 25 Mar 00:00:28.706 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=468, just started
+468:C 25 Mar 00:00:28.706 # Configuration loaded
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 4.0.11 (54b17f98/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in standalone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 56381
+ |    `-._   `._    /     _.-'    |     PID: 469
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+469:M 25 Mar 00:00:28.710 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+469:M 25 Mar 00:00:28.711 # Server initialized
+469:M 25 Mar 00:00:28.711 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+469:M 25 Mar 00:00:28.711 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+469:M 25 Mar 00:00:28.711 * Ready to accept connections
+11192:C 25 Mar 00:01:36.242 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+11192:C 25 Mar 00:01:36.242 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=11192, just started
+11192:C 25 Mar 00:01:36.242 # Configuration loaded
+11198:M 25 Mar 00:01:36.245 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
+22779:C 25 Mar 00:10:34.023 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+22779:C 25 Mar 00:10:34.023 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=22779, just started
+22779:C 25 Mar 00:10:34.023 # Configuration loaded
+22780:M 25 Mar 00:10:34.027 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
+13881:C 25 Mar 00:21:01.256 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+13881:C 25 Mar 00:21:01.256 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=13881, just started
+13881:C 25 Mar 00:21:01.256 # Configuration loaded
+13882:M 25 Mar 00:21:01.259 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
+30421:C 25 Mar 00:39:06.501 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+30421:C 25 Mar 00:39:06.501 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=30421, just started
+30421:C 25 Mar 00:39:06.501 # Configuration loaded
+30422:M 25 Mar 00:39:06.505 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
+14087:C 29 Mar 02:10:44.668 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+14087:C 29 Mar 02:10:44.669 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=14087, just started
+14087:C 29 Mar 02:10:44.669 # Configuration loaded
+14088:M 29 Mar 02:10:44.673 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
+15692:C 29 Mar 02:10:58.090 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+15692:C 29 Mar 02:10:58.090 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=15692, just started
+15692:C 29 Mar 02:10:58.090 # Configuration loaded
+15693:M 29 Mar 02:10:58.094 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
+25402:C 31 Mar 19:44:44.635 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+25402:C 31 Mar 19:44:44.635 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=25402, just started
+25402:C 31 Mar 19:44:44.636 # Configuration loaded
+25403:M 31 Mar 19:44:44.639 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
+16872:C 21 Nov 21:47:58.972 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+16872:C 21 Nov 21:47:58.972 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=16872, just started
+16872:C 21 Nov 21:47:58.972 # Configuration loaded
+16873:M 21 Nov 21:47:58.975 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
+17688:C 21 Nov 21:48:07.416 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+17688:C 21 Nov 21:48:07.416 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=17688, just started
+17688:C 21 Nov 21:48:07.416 # Configuration loaded
+17689:M 21 Nov 21:48:07.419 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
+26791:C 21 Nov 22:55:21.784 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+26791:C 21 Nov 22:55:21.784 # Redis version=4.0.11, bits=64, commit=54b17f98, modified=0, pid=26791, just started
+26791:C 21 Nov 22:55:21.785 # Configuration loaded
+26794:M 21 Nov 22:55:21.787 # Creating Server TCP listening socket 0.0.0.0:56381: bind: Address already in use
